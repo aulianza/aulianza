@@ -12,7 +12,7 @@
 <h3>Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | TypeScript | PHP
-- 🌐 &nbsp; ReactJS | Angular | VueJS | HTML | CSS 
+- 🌐 &nbsp; ReactJS | Angular | VueJS | Laravel | Codeigniter | HTML | CSS 
 - 📱 &nbsp; React Native | Flutter
 - 🗂️ &nbsp; MySQL | MongoDB
 - ✏️ &nbsp; Figma 
