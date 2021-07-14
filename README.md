@@ -11,7 +11,7 @@
 
 <h3>Tech Stack</h3>
 
-- 💻 &nbsp; JavasScript | TypeScript | PHP
+- 💻 &nbsp; JavaScript | TypeScript | PHP
 - 🌐 &nbsp; ReactJS | Angular | VueJS | HTML | CSS 
 - 📱 &nbsp; React Native | Flutter
 - 🗂️ &nbsp; MySQL | MongoDB
