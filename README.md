@@ -2,8 +2,8 @@
 
 <h3>About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Graduated from Universitas Syiah Kuala.
+- 🤔 &nbsp; Exploring new technologies and software engineering and quick hacks.
+- 🎓 &nbsp; Graduated from Electrical & Computer Engineering - [Syiah Kuala University](https://unsyiah.ac.id).
 - 💼 &nbsp; Working as a Frontend Developer at [Paper.id](https://paper.id).
 - 👨‍💻 &nbsp; All of my projects are available at https://aulianza.id.
 - 📝 &nbsp; I regularly write articles on [my blog](https://aulianza.id/blog).
