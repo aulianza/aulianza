@@ -17,8 +17,6 @@
 - 🗂️ &nbsp; MySQL | MongoDB
 - ✏️ &nbsp; Figma 
 
-<br/>
-
 <h3>Statistics</h3>
 
 [![aulianza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aulianza&show_icons=true)](https://github.com/aulianza)
