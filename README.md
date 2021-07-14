@@ -3,18 +3,19 @@
 <h3>About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp;  from Universitas Syiah Kuala
+- 🎓 &nbsp; Graduated from Universitas Syiah Kuala.
 - 💼 &nbsp; Working as a Frontend Developer at [Paper.id](https://paper.id).
 - 👨‍💻 &nbsp; All of my projects are available at https://aulianza.id.
-- 📝 &nbsp; I regularly write articles on [my blog](https://aulianza.id/blog)
+- 📝 &nbsp; I regularly write articles on [my blog](https://aulianza.id/blog).
 - 📫 &nbsp; How to reach me: aulianza01@gmail.com
 
 <h3>Tech Stack</h3>
 
 - 💻 &nbsp; JavasScript | TypeScript | PHP
 - 🌐 &nbsp; ReactJS | Angular | VueJS | HTML | CSS 
-- 🛢 &nbsp; MySQL | MongoDB
-- 🖥 &nbsp; Figma 
+- 📱 &nbsp; React Native | Flutter
+- 🗂️ &nbsp; MySQL | MongoDB
+- ✏️ &nbsp; Figma 
 
 <br/>
 
