@@ -12,8 +12,8 @@
 <h3>Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | TypeScript | PHP
-- 🌐 &nbsp; ReactJS | Angular | VueJS | NodeJS | Laravel | Codeigniter | HTML | CSS 
-- 📱 &nbsp; React Native | Flutter
+- 🌐 &nbsp; React.js | Angular | Vue.js | Node.js | Laravel | Codeigniter | HTML | CSS | Styled-Components
+- 📱 &nbsp; Flutter
 - 🗂️ &nbsp; MySQL | MongoDB
 - ✏️ &nbsp; Figma 
 
