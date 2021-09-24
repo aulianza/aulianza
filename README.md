@@ -9,12 +9,7 @@
 - 📝 &nbsp; I regularly write articles on [my blog](https://aulianza.id/blog).
 - 📫 &nbsp; How to reach me: aulianza01@gmail.com
 
-<h3>Statistics</h3>
-
-[![aulianza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aulianza&show_icons=true)](https://github.com/aulianza)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aulianza&" alt="ahmad" /></p>
-
+[![Linkedin: Ryan Aulia](https://img.shields.io/badge/-Muhammad%20Hidayat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aulianza/)](https://www.linkedin.com/in/aulianza/) [![GitHub aulianza](https://img.shields.io/github/followers/muhidayat03?label=follow&style=social)](https://github.com/muhidayat03) 
 [![](https://komarev.com/ghpvc/?username=aulianza&color=blue&label=Profile%20Views)](https://github.com/aulianza/aulianza)
 [![](https://img.shields.io/github/followers/aulianza?label=GitHub%20Followers)](https://github.com/aulianza)
 
