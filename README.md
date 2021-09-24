@@ -10,9 +10,9 @@
 - 📫 &nbsp; How to reach me: aulianza01@gmail.com
 
 <h3> Get in Touch </h3>
-[![Linkedin: Ryan Aulia](https://img.shields.io/badge/-Ryan%20Aulia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aulianza/)](https://www.linkedin.com/in/aulianza/) [![GitHub aulianza](https://img.shields.io/github/followers/muhidayat03?label=follow&style=social)](https://github.com/muhidayat03) 
-[![](https://komarev.com/ghpvc/?username=aulianza&color=blue&label=Profile%20Views)](https://github.com/aulianza/aulianza)
-[![](https://img.shields.io/github/followers/aulianza?label=GitHub%20Followers)](https://github.com/aulianza)
+
+[![Linkedin: Ryan Aulia](https://img.shields.io/badge/-Ryan%20Aulia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aulianza/)](https://www.linkedin.com/in/aulianza/)
+[![GitHub muhidayat03](https://img.shields.io/github/followers/muhidayat03?label=follow&style=social)](https://github.com/muhidayat03) 
 
 <p align="center">
 <a href="https://instagram.com/aulianza" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/instagram-gray?style=flat-square&logo=instagram"/></a>
