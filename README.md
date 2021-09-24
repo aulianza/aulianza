@@ -15,6 +15,8 @@
 <a href="https://instagram.com/aulianza" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/instagram-gray?style=flat-square&logo=instagram"/></a>
 <a href="https://stackoverflow.com/users/12729595/aulianza"><img alt="Stackoverflow" src="https://img.shields.io/badge/Stackoverflow-gray?style=flat-square&logo=stackoverflow"></a>
 <a href="mailto:aulianza01@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aulianza01@gmail.com-blue?style=flat-square&logo=gmail"></a>
+[![](https://komarev.com/ghpvc/?username=aulianza&color=blue&label=Profile%20Views)](https://github.com/aulianza/aulianza)
+[![](https://img.shields.io/github/followers/aulianza?label=GitHub%20Followers)](https://github.com/aulianza)
 [![GitHub aulianza](https://img.shields.io/github/followers/aulianza?label=follow&style=social)](https://github.com/aulianza) 
 
 
