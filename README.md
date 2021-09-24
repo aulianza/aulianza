@@ -9,14 +9,6 @@
 - 📝 &nbsp; I regularly write articles on [my blog](https://aulianza.id/blog).
 - 📫 &nbsp; How to reach me: aulianza01@gmail.com
 
-<h3>Tech Stack</h3>
-
-- 💻 &nbsp; JavaScript | TypeScript | PHP
-- 🌐 &nbsp; React.js | Angular | Vue.js | Node.js | Laravel | Codeigniter | HTML | CSS | Styled-Components
-- 📱 &nbsp; Flutter
-- 🗂️ &nbsp; MySQL | MongoDB
-- ✏️ &nbsp; Figma 
-
 <h3>Statistics</h3>
 
 [![aulianza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aulianza&show_icons=true)](https://github.com/aulianza)
