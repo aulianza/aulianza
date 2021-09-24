@@ -7,7 +7,7 @@
 - 💼 &nbsp; Working as a Frontend Developer at [Paper.id](https://paper.id).
 - 👨‍💻 &nbsp; All of my projects are available at https://aulianza.id.
 - 📝 &nbsp; I regularly write articles on [my blog](https://aulianza.id/blog).
-- 📫 &nbsp; How to reach me: aulianza01@gmail.com
+- 📫 &nbsp; How to reach me: hello@aulianza.id
 
 <h3> Get in Touch </h3>
 
