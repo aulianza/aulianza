@@ -4,9 +4,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and software engineering knowledges and quick hacks.
 - 🎓 &nbsp; Graduated from Electrical & Computer Engineering - [Syiah Kuala University](https://unsyiah.ac.id).
-- 💼 &nbsp; Working as a Frontend Developer at [Paper.id](https://paper.id).
+- 💼 &nbsp; Working as a Lead Frontend Developer at [Sirka](https://sirka.io).
 - 👨‍💻 &nbsp; All of my projects are available at https://aulianza.id.
-- 📝 &nbsp; I regularly write articles on [my blog](https://aulianza.id/blog).
 - 📫 &nbsp; How to reach me: hello@aulianza.id
 
 <h3> Get in Touch </h3>
