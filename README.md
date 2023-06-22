@@ -1,6 +1,6 @@
 # 👋 Hi!
 
-I am **Ryan**, a professional currently engaged in the JavaScript Ecosystem. Moreover, I take great pleasure in disseminating my expertise through scholarly articles that diligently endeavor to reconstruct and redefine fundamental concepts.
+I am **Ryan**, a professional currently engaged in the JavaScript and React Ecosystem. Moreover, I take great pleasure in disseminating my expertise through scholarly articles that diligently endeavor to reconstruct and redefine fundamental concepts.
 
 ### Let's get in tocuh! Feel free to DM me for discussion!
 
