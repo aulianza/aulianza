@@ -1,6 +1,6 @@
 # 👋 Hi!
 
-I am **Ryan**, a professional currently engaged in the JavaScript and React Ecosystem. Moreover, I take great pleasure in disseminating my expertise through scholarly articles that diligently endeavor to reconstruct and redefine fundamental concepts.
+I am **Ryan**, a seasoned software engineer especially in Frontend side, with a passion for creating pixel-perfect web experiences. Work with JavaScript and specialize in all things web. Expertise in multiple web frameworks such as React, Angular and Vue. I thrive on collaborating with teams to deliver efficient, scalable, and visually appealing web applications.
 
 ### Let's get in tocuh! Feel free to DM me for discussion!
 
