@@ -1,19 +1,42 @@
-# 👋 Hi!
+<h1 class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />&nbsp;Hi, I'm Ryan</h1>
 
-I am **Ryan**, a seasoned software engineer especially in Frontend side, with a passion for creating pixel-perfect web experiences. Work with JavaScript and specialize in all things web. Expertise in multiple web frameworks such as React, Angular and Vue. I thrive on collaborating with teams to deliver efficient, scalable, and visually appealing web applications.
+<p align="left">
+  <samp>
+    <a href="https://aulianza.com" target='_blank'>landing page</a> .
+        <a href="https://aulianza.id" target='_blank'>website & portfolio</a> .
+    <a href="https://aulianza.id/blog" target='_blank'>blog</a> 
+  </samp>
+</p>
 
-### Let's get in tocuh! Feel free to DM me for discussion!
+- 🏢 I'm currently working from home as a full-time frontend software engineer lead at [Sirka.io](https://sirka.io).
+- ⚙️ Additionally, I'm in the process of building my own software company, [FlexCode](https://flexcode.co.id).
+- ⚛️ I'm currently diving into the world of [React](https://reactjs.org) and [Next.js](https://nextjs.org).
+- ♻️ I'm on the lookout for collaboration opportunities in open source projects related to React.
+- 💬 Feel free to ask me anything related to React, styling, or anything.
+- 📫 You can reach out to me directly through [Telegram](https://t.me/aulianza).
+- 😄 Pronouns: he/him
 
-[![Linkedin: Ryan Aulia](https://img.shields.io/badge/-Ryan%20Aulia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aulianza/)](https://www.linkedin.com/in/aulianza/)
-<a href="https://stackoverflow.com/users/12729595/aulianza"><img alt="Stackoverflow" src="https://img.shields.io/badge/Stackoverflow-gray?style=flat-square&logo=stackoverflow"></a>
-<a href="mailto:hello@aulianza.id"><img alt="Email" src="https://img.shields.io/badge/Email-hello@aulianza.id-blue?style=flat-square&logo=email"></a>
+
+###  Let's get in tocuh! Feel free to DM me for discussion!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Ryan%20Aulia-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aulianza/) 
+[![Mail Badge](https://img.shields.io/badge/-@aulianza-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/aulianza) 
+[![Twitter Badge](https://img.shields.io/badge/-@aulianzaa-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aulianzaa)](https://twitter.com/aulianzaa) 
+[![Mail Badge](https://img.shields.io/badge/-aulianza.dev@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:aulianza.dev@gmail.com)
 [![](https://komarev.com/ghpvc/?username=aulianza&color=blue&label=Profile%20Views)](https://github.com/aulianza/aulianza)
 [![](https://img.shields.io/github/followers/aulianza?label=GitHub%20Followers)](https://github.com/aulianza)
+<br />
 
-### Statistics
+###  Statistics
 
-<div>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aulianza&layout=compact&theme=react&hide=php&langs_count=6" />
-  <a href="https://wakatime.com/@aulianza"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=aulianza&layout=compact&theme=react&langs_count=6" /></a>
+<details>
+ <summary>Full Statistics (click here to toggle)</summary>
+  <br />
+ <div class="flex">
+    <div><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aulianza&layout=compact&theme=react&hide=php&langs_count=6" /></div>
+  <div><a href="https://wakatime.com/@aulianza"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=aulianza&layout=compact&theme=react&langs_count=6" /></a></div>
+   <div>  <a href="https://github.com/aulianza?tab=repositories&q=&type=&language=&sort=stargazers"><img height="154" src="https://github-readme-stats.vercel.app/api?username=aulianza&show_icons=true&theme=react&count_private=true&hide=contribs" /></a>
 </div>
-
+  <div><img src="https://github-readme-streak-stats.herokuapp.com/?user=aulianza&theme=algolia" alt="Stat Streak" /></div>
+ </div>
+</details>
