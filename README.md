@@ -13,7 +13,6 @@
 - ⚛️ I'm currently diving into the world of [React](https://reactjs.org) and [Next.js](https://nextjs.org).
 - ♻️ I'm on the lookout for collaboration opportunities in open source projects related to React.
 - 💬 Feel free to ask me anything related to React, styling, or anything.
-- 📫 You can reach out to me directly through [Telegram](https://t.me/aulianza).
 - 😄 Pronouns: he/him
 
 
@@ -29,7 +28,7 @@
 
 ### Statistics
 
-<span><img height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aulianza&layout=compact&theme=react&hide=php&langs_count=6" /></span>
-<span><a href="https://wakatime.com/@aulianza"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=aulianza&layout=compact&theme=react&langs_count=6" /></a></span>
-<span><a href="https://github.com/aulianza?tab=repositories&q=&type=&language=&sort=stargazers"><img height="150" src="https://github-readme-stats.vercel.app/api?username=aulianza&show_icons=true&theme=react&count_private=true&hide=contribs" /></a></span>
-<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=aulianza&theme=react" height="150" alt="Stat Streak" /></span>
+<span><img height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aulianza&layout=compact&hide=php&langs_count=6" /></span>
+<span><a href="https://wakatime.com/@aulianza"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=aulianza&layout=compact&langs_count=6" /></a></span>
+<span><a href="https://github.com/aulianza?tab=repositories&q=&type=&language=&sort=stargazers"><img height="150" src="https://github-readme-stats.vercel.app/api?username=aulianza&show_icons=true&count_private=true&hide=contribs" /></a></span>
+<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=aulianza" height="150" alt="Stat Streak" /></span>
