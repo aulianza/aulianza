@@ -8,8 +8,7 @@
   </samp>
 </p>
 
-- 🏢 I'm currently working from home as a full-time frontend software engineer lead at [Sirka.io](https://sirka.io).
-- ⚙️ Additionally, I'm in the process of building my own software company, [FlexCode](https://flexcode.co.id).
+- 🏢 I'm currently working from home as a full-time full-stack software engineer at [Seeru](https://seeru.com).
 - ⚛️ I'm currently diving into the world of [React](https://reactjs.org) and [Next.js](https://nextjs.org).
 - ♻️ I'm on the lookout for collaboration opportunities in open source projects related to React.
 - 💬 Feel free to ask me anything related to React, styling, or anything.
