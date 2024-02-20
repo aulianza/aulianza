@@ -15,7 +15,7 @@
 - 😄 Pronouns: he/him
 
 
-####  Let's get in tocuh! Feel free to DM me for discussion!
+####  Let's get in touch! Feel free to DM me for discussion!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ryan%20Aulia-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aulianza/) 
 [![Mail Badge](https://img.shields.io/badge/-@aulianza-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/aulianza) 
