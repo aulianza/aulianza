@@ -8,7 +8,7 @@
   </samp>
 </p>
 
-- 🏢 I'm currently working remotely as a full-stack software engineer at [Seeru](https://seeru.ae), Dubai, UAE.
+- 🏢 I'm currently working remotely from Jakarta, Indonesia.
 - ⚛️ I'm currently diving in [React](https://reactjs.org) and [Next.js](https://nextjs.org).
 - ♻️ I'm on the lookout for collaboration opportunities in open source projects related to React.
 - 💬 Feel free to ask me anything.
