@@ -1,0 +1,43 @@
+{
+  "coloredImage": true,
+  "removeBackground": false,
+  "imageScale": 1.2,
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "fields": [
+        { "key": "OS", "value": "macOS / iOS / Android / Web" },
+        { "key": "Uptime", "value": "{{uptime}}" },
+        { "key": "Host", "value": "Block" },
+        { "key": "Role", "value": "AI Platform Engineer" },
+        { "key": "Tools", "value": "CMUX / VS Code" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Code", "value": "TypeScript / JavaScript / Python / PHP" },
+        { "key": "Building", "value": "AI agents / developer tools / platform" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Offline", "value": "Home automation / travel / family" }
+      ]
+    },
+    {
+      "title": "- Contact",
+      "fields": [
+        { "key": "Email", "value": "hello@aulianza.com" },
+        { "key": "Web", "value": "{{blog}}" }
+      ]
+    }
+  ],
+  "stats": {
+    "title": "- GitHub Stats",
+    "rows": [
+      { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
+      { "left": { "key": "PRs", "value": "{{prs}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
+      { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Forks", "value": "{{forks}}" } }
+    ]
+  }
+}
