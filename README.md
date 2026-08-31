@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://aulianza.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=aulianza&amp;theme=github-dark&amp;config=https%3A%2F%2Fraw.githubusercontent.com%2Faulianza%2Faulianza%2Fa5cbf67%2Fneofetch.json&amp;v=10">
+      <img alt="Joah Gerstenberg's GitHub profile" src="https://neofetch-profile.vercel.app/api?username=aulianza&amp;theme=github-light&amp;config=https%3A%2F%2Fraw.githubusercontent.com%2Faulianza%2Faulianza%2Fa5cbf67%2Fneofetch.json&amp;v=10">
+    </picture>
+  </a>
+</p>
+
 <div align="center">
 
 # Hey, I'm Ryan Aulia 👋
@@ -82,3 +91,5 @@
 <img src="https://komarev.com/ghpvc/?username=aulianza&label=Profile+Views&color=0e75b6&style=flat" />
 
 </div>
+
+
