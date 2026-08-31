@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=aulianza&bg_color=00000000&color=666666&line=888888&point=111111&area=true&hide_border=true" alt="GitHub activity graph" /> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=aulianza&theme=transparent&hide_border=true" height="170" alt="GitHub streak" /> </p>
 
 <p align="center">
   <img
