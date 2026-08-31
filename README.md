@@ -7,7 +7,7 @@
       />
       <img
         alt="aulianza's GitHub profile"
-        src="https://neofetch-profile.vercel.app/api?username=aulianza&amp;theme=github-light&amp;config=https%3A%2F%2Fraw.githubusercontent.com%2Faulianza%2Faulianza%2Frefs%2Fheads%2Fmaster%2Fneofetch.json&amp;v=10"
+        src="https://neofetch-profile.vercel.app/api?username=aulianza&amp;theme=github-light&amp;config=https%3A%2F%2Fraw.githubusercontent.com%2Faulianza%2Faulianza%2Frefs%2Fheads%2Fmaster%2Fneofetch.json&amp;v=11"
       />
     </picture>
   </a>
