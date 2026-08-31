@@ -3,7 +3,7 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://neofetch-profile.vercel.app/api?username=aulianza&amp;theme=github-dark&amp;config=https%3A%2F%2Fraw.githubusercontent.com%2Faulianza%2Faulianza%2Frefs%2Fheads%2Fmaster%2Fneofetch.json&amp;v=10"
+        srcset="https://neofetch-profile.vercel.app/api?username=aulianza&amp;theme=github-dark&amp;config=https%3A%2F%2Fraw.githubusercontent.com%2Faulianza%2Faulianza%2Frefs%2Fheads%2Fmaster%2Fneofetch.json&amp;v=11"
       />
       <img
         alt="aulianza's GitHub profile"
