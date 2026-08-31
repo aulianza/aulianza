@@ -13,55 +13,6 @@
   </a>
 </p>
 
-<div align="center">
-
-# Hey, I'm Ryan Aulia 👋
-
-### Software Engineer • AI-Driven Product Builder • Next.js Specialist
-
-<p>
-  Building scalable products, AI-powered workflows, and modern web experiences.
-</p>
-
-<p>
-  <a href="https://aulianza.com">Personal Website</a> •
-  <a href="https://aulianza.com/blog">Blog</a>
-</p>
-
-</div>
-
----
-
-## About Me
-
-- 🏢 Remote Software Engineer based in Indonesia 🇮🇩
-- ⚡ Specialized in React, Next.js, TypeScript, and scalable frontend systems
-- 🤖 Building AI-integrated products and automation workflows
-- 🎨 Passionate about product engineering, UI/UX, and performance optimization
-- 🌍 Collaborating with international teams and remote-first companies
-- 📚 Currently exploring AI engineering and modern software architecture
-- 💬 Open for collaboration, consulting, and interesting opportunities
-
----
-
-## Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge&logo=tailwind-css)
-![React Native](https://img.shields.io/badge/React_Native-111827?style=for-the-badge&logo=react)
-
-### Backend & Infrastructure
-![NodeJS](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql)
-![Firebase](https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
-
-
----
-
 ## GitHub Analytics
 
 <div align="center">
@@ -73,8 +24,6 @@
 <img height="170" src="https://streak-stats.demolab.com?user=aulianza&theme=transparent&hide_border=true" />
 
 </div>
-
----
 
 ## Connect With Me
 
