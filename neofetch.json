@@ -8,7 +8,7 @@
       "fields": [
         { "key": "OS", "value": "macOS / iOS / Android / Web" },
         { "key": "Uptime", "value": "{{uptime}}" },
-        { "key": "Host", "value": "Block" },
+        { "key": "Host", "value": "aulianza" },
         { "key": "Role", "value": "AI Platform Engineer" },
         { "key": "Tools", "value": "CMUX / VS Code" }
       ]
@@ -21,14 +21,14 @@
     },
     {
       "fields": [
-        { "key": "Offline", "value": "Home automation / travel / family" }
+        { "key": "Offline", "value": "automation / travel / family" }
       ]
     },
     {
       "title": "- Contact",
       "fields": [
         { "key": "Email", "value": "hello@aulianza.com" },
-        { "key": "Web", "value": "{{blog}}" }
+        { "key": "Web", "value": "aulianza.com" }
       ]
     }
   ],
